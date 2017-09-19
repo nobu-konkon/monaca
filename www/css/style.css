@@ -1,0 +1,11 @@
+ons-list-item {
+	height: 60px;
+	line-height: 30px;
+}
+#detail-page {
+	padding: 20px;
+	text-align: center;
+}
+img {
+	width: 80%;
+}
